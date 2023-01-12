@@ -2,7 +2,7 @@
 **Howdy Githubbers ?** Welcome to my Github page! I'm *__Dylan__* 👋 <br />
 
 # 📖 **About me**
-* 📚 French student from OpenClassrooms
+* 📚 French student at OpenClassrooms
 * ⏳ I'm currently learning many things
 
 ### Skills :
