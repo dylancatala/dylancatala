@@ -1,16 +1,21 @@
-### Hi there 👋
+# Oh, you're here 👀
+**Howdy Githubbers ?** Welcome to my Github page! I'm *__Dylan__* 👋 <br />
 
-<!--
-**dylancatala/dylancatala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📖 **About me**
+* 📚 French student from OpenClassrooms
+* ⏳ I'm currently learning many things
 
-Here are some ideas to get you started:
+### Skills :
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Currently learning:
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />        
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<br />   
+
+---
