@@ -3,7 +3,7 @@
 
 # 📖 **About me**
 * 📚 French student at OpenClassrooms
-* ⏳ I'm currently learning many things
+* ⏳ I'm currently doing The Odin Project at the same moment
 
 ### Skills :
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
